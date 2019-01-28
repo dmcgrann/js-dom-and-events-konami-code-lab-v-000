@@ -7,7 +7,7 @@ function init() {
     const key = parseInt(e.detail || e.which);
   
   )
-  if (code === parseInt(e.detail || e.which)); {
+  if (code === ; {
     index++
       if (index === 10) {
         alert("Hurray!");
